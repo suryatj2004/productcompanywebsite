@@ -191,9 +191,9 @@ contactus.html
           <h1>Contact Us</h1>
           <img src="/static/img/con.png" alt="Logo" />
           <div class="contenttext">
-            Email: arpanbardhan@gmail.com
+            Email: suryatj024@gmail.com
             <br>
-            Phone: +919876543210
+            Phone: +916374765423
             <br>
             Street:  1740 Crowfield Road
 
