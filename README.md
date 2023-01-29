@@ -213,7 +213,7 @@ contactus.html
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Arpan Bardhan.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by Surya.T.
       </div>
     </div>
   </body>
